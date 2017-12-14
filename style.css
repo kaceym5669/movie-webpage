@@ -1,26 +1,38 @@
-h1{
+h1 {
     text-align: center;
  
 font-family: 'Josefin Slab', serif;
 }
+
 h3{
     text-align: center ;
     font-family: 'Maven Pro', sans-serif;
     color: red;
-    font-size: 20px
+    font-size: 20px;
     
 }
-p{
+
+p {
    font-family: 'Poiret One', cursive;
    font-size: 20px;
 }
+
 div{
     background-color: #4169e1;
-    padding: 10px
-    
-    
-    ;
+    padding: 10px;
 }
+
 span{
-    font-family: monospace;
+     font-family: 'Maven Pro', sans-serif;
+     color:white ;
+}
+
+li {
+    font-family: 'Josefin Slab', serif;
+}
+
+#second {
+    background-color: grey;
+    margin-top: 10px;
+    padding: 20px;
 }
