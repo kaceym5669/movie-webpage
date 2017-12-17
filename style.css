@@ -34,15 +34,19 @@ body{
 
 #goat {
     height: 200px;
-     border-color: white;
-    border: 50px ;
+    display:block;
+   margin: auto;
    
 }
 
 #writing {
     height: 200px;
+    display:block;
+    margin:auto;
 }
 
 #bake{
     height:200px;
+    display:block;
+    margin:auto;
 }
