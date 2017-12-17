@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     color: white;
 font-family: 'Josefin Slab', serif;
+
 }
 
 h3{
@@ -31,3 +32,17 @@ body{
     background: linear-gradient(to top, #4169e1 21%, #000000 100%);
 }
 
+#goat {
+    height: 200px;
+     border-color: white;
+    border: 50px ;
+   
+}
+
+#writing {
+    height: 200px;
+}
+
+#bake{
+    height:200px;
+}
