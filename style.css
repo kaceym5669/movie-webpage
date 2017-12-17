@@ -1,6 +1,5 @@
 h1 {
     text-align: center;
- 
 font-family: 'Josefin Slab', serif;
 }
 
@@ -18,11 +17,15 @@ p {
 }
 
 div{
-    background-color: #4169e1;
+    background: linear-gradient(to top, #4169e1 21%, #000000 100%);
     padding: 10px;
 }
 
 span{
     font-family: monospace;
+}
+
+body{
+    /*background: linear-gradient(to top, #4169e1 21%, #000000 100%);*/
 }
 
