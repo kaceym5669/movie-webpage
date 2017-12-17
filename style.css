@@ -23,16 +23,6 @@ div{
 }
 
 span{
-     font-family: 'Maven Pro', sans-serif;
-     color:white ;
+    font-family: monospace;
 }
 
-li {
-    font-family: 'Josefin Slab', serif;
-}
-
-#second {
-    background-color: grey;
-    margin-top: 10px;
-    padding: 20px;
-}
