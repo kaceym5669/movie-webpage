@@ -69,20 +69,24 @@ body {
     height: 200px;
     display: block;
     margin: auto;
+    position: relative;
+    left: 150px;
 }
 
 #bake {
     height: 200px;
     display: block;
     margin: auto;
+    position:relative;
+    right: 150px;
 }
 
 #boy-girl {
     height: 200px;
     display: block;
     margin: auto;
-    
-
+    position: relative;
+    left: 150px;
 }
 
 .border {
